@@ -10,3 +10,4 @@ The web app was built in Python using the following libraries:
 * numpy
 * scikit-learn
 * pickle
+![image](https://user-images.githubusercontent.com/44479906/137624986-a2965b27-2d11-4fc4-a492-0ae925bd3d71.png)
